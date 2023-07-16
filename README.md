@@ -14,7 +14,7 @@ Clone github repo. Install Inquirer and Node.
 Initiate MySQL in the command line and enter your password. Source the schema.sql and then seeds.sql to generate the employees database and tables. Then enter npm start and the prompt questions will display for the user to scroll up and down to the task they want. 
 
 ## License
-
+ISC
 
 ## Links
 
