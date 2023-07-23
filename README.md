@@ -24,4 +24,4 @@ Github Repo: https://github.com/saephanhe56/ecommerce-backend
 Video Link: https://drive.google.com/file/d/1_-bFnAE_mJLVebQ5-wTv6PguOi95NWBX/view
 
 ## Mockup Example Product 
-![screenshot](/Homework/ecommerce-backend/assets/ORM-ecommerce.png)
+![screenshot](./assets/ORM-ecommerce.png)
